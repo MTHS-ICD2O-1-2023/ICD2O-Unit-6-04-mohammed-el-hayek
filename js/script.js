@@ -7,7 +7,7 @@
 "use strict"
 
 /**
- * Check service worker support"
+ *Check service worker support"
 */
 if (navigator.serviceWorker) {
   navigator.serviceWorker.register("/ICS2O-Unit-6-01-Osamah-Hasan/sw.js", {
